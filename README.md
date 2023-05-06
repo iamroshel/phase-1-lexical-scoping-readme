@@ -1,4 +1,4 @@
-# Lexical scoping
+# Lexical scoping c
 
 ## Learning Goals
 
